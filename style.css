@@ -88,7 +88,7 @@ input,button{
   display: block;
   margin: 0 0 20px;
 }
-input#input-new-task {
+#input-new-task {
   width: 318px;
 }
 
