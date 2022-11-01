@@ -10,10 +10,10 @@ body {
   display: block;
   text-align: right;
 }
-.header-img {
+.header__header-img {
   width: 100%;
 }
-.header .more-inf {
+.header .header__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -63,7 +63,7 @@ button{
 }
 /* Heading */
 .h3,
-.label-for-new-task {
+.add-item__label-for-new-task {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -89,7 +89,7 @@ button{
 }
 
 /* New Task */
-.label-for-new-task {
+.add-item__label-for-new-task {
   display: block;
   margin: 0 0 20px;
 }
